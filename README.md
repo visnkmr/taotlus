@@ -5,9 +5,8 @@
 **Taotlus lists all apps installed on your device; including side loaded apps; can be used as a Launcher if required.**
 
 **Features:**  
+✓ **Category exclusive** Fuzzylogic score based search.  
 ✓ Recommendation Row and Channel Row for most used apps on Android TVs.  
-- More options including:  
-✓ Quick Search.  
 ✓ Change Icon Height and width as required.  
 ✓ Sort by Frequency of use, Recently used, Name, Size, Permissions Ascending or Descending.  
   
